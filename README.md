@@ -1,2 +1,0 @@
-# peremees
-Mario tunnid
