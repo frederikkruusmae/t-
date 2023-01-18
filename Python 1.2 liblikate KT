@@ -1,0 +1,25 @@
+from tkinter import *
+
+aken = Tk()
+aken.title('1.2 Liblika KT')
+
+label1 = Label(aken, text='Sisesta: 2022, ning saad teada mis on selle aasta liblikas')
+label1.grid(row=0, column=0)
+
+entry = Entry(aken)
+entry.grid(row=1,column=0)
+
+label2 = Label(aken, text='')
+label2.grid(row=3,column=0)
+
+aasta = "2022"
+liblikas = "vareskaera-aasasilmik"
+
+def pohi():
+    entryget = entry.get()
+    label2.config(text=f"{liblikas} on {aasta}. aasta liblikas.")
+
+button = Button(aken, text='saa teada', command=pohi)
+button.grid(row=2,column=0)
+
+aken.mainloop()
