@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="et">
+ 
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    
+    <title>Harjutus02</title>
+</head>
+ 
+<div class="container">
+    <body>
+        <div class="row">
+        <h1 class="display-1">Kruusimäe.com</h1>
+    </div>
+    <div class="row">
+        <div class="col-sm-8">
+            <h1 class="text-primary">Peal kiri</h1>
+            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, iusto deleniti esse tenetur porro dolorum nemo accusamus facilis quibusdam iure tempore optio consequuntur. Assumenda modi labore voluptatum! Praesentium, molestiae suscipit.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit labore perferendis sed, quod, velit minima inventore totam, provident fugiat error in. Sapiente vero enim hic debitis quaerat nulla quae quis?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero magnam, exercitationem modi error molestiae explicabo sequi suscipit! Doloribus, voluptatum, iure et sunt velit cum eum reprehenderit ut accusantium, in aliquid?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic eum libero obcaecati dolor repellendus, eius at nemo impedit quibusdam porro accusamus non maxime nobis eligendi natus veritatis consectetur odio odit.</p>
+            <h2>alapealkiri</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, illo voluptates. Quasi dolore exercitationem accusamus porro temporibus ad et, eaque saepe doloribus iusto. Quis numquam repellat dolores assumenda ducimus nemo.</p>
+            
+        </div>
+    </div>
+    </body>
+</div>
+
+</html>
